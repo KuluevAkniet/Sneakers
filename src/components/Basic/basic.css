@@ -1,0 +1,75 @@
+.main{
+  width: 100%;
+ height: auto;
+}
+
+.main__box{
+   width: 100%;
+   height: auto;
+   background: url('../image/Rectangle.jpg') center /cover;
+}
+
+.main__text{
+    padding-top: 504px;
+}
+
+.main__title{
+ font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 63px;
+letter-spacing: 0.5px;
+color: #FFFFFF;
+}
+
+
+.main__subtitle{
+ font-family: Roboto;
+ font-style: normal;
+ font-weight: bold;
+ font-size: 16px;
+ line-height: 24px;
+letter-spacing: 0.5px;
+ color: #FFFFFF;
+}
+
+.main__btns{
+ padding-top: 24px;
+ display: flex;
+   column-gap: 24px;
+}
+
+.main__btn1{
+ width:10%;
+ height: 45px;
+ background: #FFFFFF;
+ border-radius: 2px;
+ font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+border: 0;
+color: #212A2F;
+}
+
+.main__btn2{  
+ width:10%;
+ height: 45px;
+ background: #FFFFFF;
+ border-radius: 2px;
+ font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 2px;
+border: 0;
+text-transform: uppercase;
+color: #212A2F;
+}
